@@ -1,0 +1,11 @@
+.tempContainer{
+    padding: 20px;
+}
+
+.hot{
+    background-color: red;
+}
+
+.cold{
+    background-color: skyblue;
+}
